@@ -1,0 +1,6 @@
+
+@mixin fonts-stylee($sizeFont, $familyFont, $colorFont) {
+    font-size: $sizeFont;
+    font-family: $familyFont;
+    color: $colorFont;
+}
